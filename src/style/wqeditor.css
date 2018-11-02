@@ -4,6 +4,7 @@
     font-style: normal;
     border:1px solid #eaeaea;
     padding:0px 8px 8px 8px;
+    font-family: inherit;
     
 }
 .wq-editor-box .wq-editor-svgbox{
